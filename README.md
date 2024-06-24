@@ -2,7 +2,7 @@
 
 ### TABLE des matières
 1. [Liste des compétences du référentiel couvert par le projet](#skills_cover_by_project)
-2. [Project Resume (in english)](#project_resume_eng)
+2. [Project Resume (en anglais)](#project_resume_eng)
 3. [Cahier des charges/Expression des besoins du projet](#project_need)
 4. [Gestion de projet](#project_management)
 5. [Spécifications fonctionnelles du projet](#project_features_specs)
